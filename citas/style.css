@@ -1,0 +1,83 @@
+.autorx {
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.container {
+    border-radius: 10px;
+    box-shadow: 0 0 15px #333;
+    display: flex;
+    font-family: 'Lacquer', sans-serif;
+    margin: 0 auto;
+    padding: 10px;
+    justify-content: center;
+    width: 400px;
+}
+
+.cita {
+    border-left: 3px solid black;
+    padding-left: 20px;
+    text-align: left;
+}
+
+.section1 {
+    background-color: aquamarine;
+}
+
+.section2 {
+    background-color: rgb(83, 248, 193);
+}
+
+.section3 {
+    background-color: rgb(42, 226, 165);
+}
+
+.section4 {
+    background-color: rgb(35, 212, 153);
+}
+
+.section5 {
+    background-color: rgb(13, 175, 148);
+}
+
+.section6 {
+    background-color: rgb(7, 145, 122);
+}
+
+.container1 {
+    background-color: rgb(174, 198, 243);
+}
+
+.container2 {
+    background-color: rgb(150, 183, 243);
+}
+
+.container3 {
+    background-color: rgb(123, 164, 241);
+}
+
+.container4 {
+    background-color: rgb(102, 151, 241);
+}
+
+.container5 {
+    background-color: rgb(78, 134, 236);
+}
+
+.container6 {
+    background-color: rgb(57, 118, 230);
+}
+
+hr {
+    border-top: 1px solid violet;
+    border-bottom: 1px solid violet;
+}
+
+img {
+    border-radius: 50%;
+    margin: 10px;
+    width: 25%;
+}

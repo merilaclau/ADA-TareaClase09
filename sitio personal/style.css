@@ -1,0 +1,103 @@
+body {
+    background-color: #3a3e44;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin: 0;
+}
+
+.titles {
+    font-family: 'Playfair Display', serif;
+}
+
+.hero {
+    background-image: url('img/background-vegan.jpg');
+    background-position: 0px -100px;
+    background-repeat: no-repeat;
+    background-size: 120%;
+    height: 630px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+
+nav a {
+    color: #dcd869;
+    text-decoration: none;
+    padding: 0 20px;
+}
+
+h1 {
+    color: #dcd869;
+    margin: 0;
+    padding-left: 30px;
+    padding-top: 200px;
+}
+
+h3 {
+    margin: 0;
+    padding-left: 30px;
+    width: 25%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container.yellow {
+    background-color: #dcd869;
+    color: #3a3e44;
+    height: 300px;
+}
+
+.container.cards {
+    background-color: #3a3e44;
+    color: #dcd869;
+    height: 300px;
+}
+
+footer img {
+    border-radius: 50%;
+    margin: 10px;
+    width: 40px;
+
+}
+
+footer i {
+    color: #dcd869;
+    font-size: 30px;
+    margin: 10px;
+}
+
+footer a {
+    color: #dcd869;
+    text-decoration: none;
+}
+
+.social-icons-container {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.copyright {
+    align-items: center;
+    background-color: #dcd869;
+    color: #3a3e44;
+    display: flex;
+    font-size: 10pt;
+    height: 40px;
+    justify-content: flex-end;
+    padding: 10px;
+}
